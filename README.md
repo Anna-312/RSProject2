@@ -16,8 +16,15 @@ a, b, C1, C2, 0 < alpha < 0.5 - входные данные.<br></alpha>
 <p>Для работы программы необходимы библиотеки pygame, numpy, pyopenGL</p>
 <p>Ввод исходных данных осуществляется из файла.</p>
 <p>Файл с исходными данными имеет вид:</p>
+<div>
 a<br>
 b<br>
 C1<br>
 C2<br>
-alpha
+alpha<br>
+</div>
+<br>
+<p>Пример работы программы:</p>
+<div align="center">
+<img src="anim.gif"/>
+</div>
